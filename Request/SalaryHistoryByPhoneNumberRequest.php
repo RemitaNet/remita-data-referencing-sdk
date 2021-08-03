@@ -1,6 +1,6 @@
 <?php
 
-class RequestSalaryHistoryByPhoneNumber
+class SalaryHistoryByPhoneNumberRequest
 {
     public $authorisationCode;
 
